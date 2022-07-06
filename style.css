@@ -132,3 +132,14 @@
 .footer {
     text-align: center;
 }
+
+.last-part {
+    text-align: center;
+    font-size: 20px;
+    color: red;
+    font-style: italic;
+}
+
+.try-more {
+    color: rgb(213, 27, 27);
+}
