@@ -1,3 +1,103 @@
+.background-image {
+    color: aliceblue;
+    text-align: center;
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: 1750px 1000px;
+    height: 800px;
+    padding-top: 70px;
+
+
+}
+
+.title {
+    font-size: 50px;
+}
+
 .link-button {
-    background-color: rgb(220, 66, 49);
+    color: rgb(246, 233, 237);
+    padding: 12px 10px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: orange;
+}
+
+.card1 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid rgb(42, 211, 172);
+    padding: 10px;
+    box-shadow: 3px 3px 6px burlywood;
+}
+
+.card2 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid rgb(42, 211, 172);
+    padding: 10px;
+    box-shadow: 3px 3px 6px burlywood;
+}
+
+.card3 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid rgb(42, 211, 172);
+    padding: 10px;
+    box-shadow: 3px 3px 6px burlywood;
+}
+
+.card4 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid rgb(42, 211, 172);
+    padding: 10px;
+    box-shadow: 3px 3px 6px burlywood;
+}
+
+.card5 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid rgb(42, 211, 172);
+    padding: 10px;
+    box-shadow: 10px 10px 18px burlywood;
+}
+
+.section-one {
+    margin: 80px;
+}
+
+.donate-plan {
+    height: 200px;
+    width: 300px;
+    border: 2px solid rgb(181, 164, 225);
+    padding-top: 20px;
+    box-shadow: 10px 10px 20px burlywood;
+}
+
+.donate {
+    text-align: center;
+}
+
+.section-one {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.section3 {
+    display: flex;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.donate-den:hover {
+    border: 1px solid gray;
+    cursor: pointer;
+    transition: 9ms;
+}
+
+.title3 {
+    display: flex;
+    justify-content: space-evenly;
 }
