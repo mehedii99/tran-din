@@ -22,6 +22,12 @@
     background-color: orange;
 }
 
+.button {
+    color: darkorange;
+    font-size: 16px;
+    font-style: bold;
+}
+
 .card1 {
     width: 50px;
     height: 50px;
@@ -89,6 +95,8 @@
     text-align: center;
     margin-bottom: 40px;
     margin-top: 20px;
+    padding: 10px;
+    justify-content: space-evenly;
 }
 
 .donate-den:hover {
