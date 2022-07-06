@@ -97,7 +97,30 @@
     transition: 9ms;
 }
 
-.title3 {
+.donate-plan {
     display: flex;
-    justify-content: space-evenly;
+}
+
+.title3 {
+    text-align: center;
+    justify-content: space-between;
+}
+
+.photos {
+    text-align: center;
+}
+
+.my-updates {
+    text-align: center;
+}
+
+.color {
+    box-sizing: border-box;
+    box-shadow: 10px 5px 10px;
+    padding: 4px;
+
+}
+
+.footer {
+    text-align: center;
 }
